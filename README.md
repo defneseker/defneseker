@@ -1,4 +1,4 @@
-## Hello 👋  I am a freshamn at Bilkent University. I am a CS major who is new to the world of coding 😁
+no way you are reading this
 
 <!--
 **defneseker/defneseker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
