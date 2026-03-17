@@ -1,4 +1,4 @@
-Hi! I am a 2nd year CS major in Bilkent University. 
+Hi I'm Defne! I am a 2nd year CS major in Bilkent University. 
 
 Main coding languages: Java, C++
 
