@@ -1,4 +1,4 @@
-Hi! I am a 2nd year CS major in Bilkent University. I have experience on object-oriented programming, algorithm development, and digital design. I am interested in game development and programming architectures.
+Hi! I am a 2nd year CS major in Bilkent University. 
 
 Main coding languages: Java, C++
 
